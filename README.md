@@ -1,2 +1,2 @@
-# MarvelFlix
-Projeto criando uma netflix da marvel
+# MovieFlix
+Projeto criando um streaming de filmes
